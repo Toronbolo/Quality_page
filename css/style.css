@@ -1,0 +1,66 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.btn {
+	width: 134px;
+	margin: 3px;
+	height: 34px;
+}
+h1 {
+	text-align: center;
+}
+#page-nav {
+    padding-left: 18px;
+    padding-top: 5px;
+}
+a {
+    font-size: 20px;
+    font-style: bold;
+    color: black;
+}
+h4 {
+    text-align: center;
+}
+p {
+    font-size: 16px;
+}
+p.ubicacion {
+   color: red;
+   text-align: right;
+   text-decoration: underline;
+   font-weight: bold;
+}
+div.menu {
+    margin: 0 auto;
+}
+p.firma {
+   text-align: right;
+   font-weight: bold;
+}
+/*Search box*/
+/*This will put the search in a black color and with some differences in the style, it is not going to be used
+but is here just in case*/
+/*#search input[type="text"] {
+	
+    background: url(../images/search-dark.png) no-repeat 10px 6px #444;
+    border: 0 none;
+    font: bold 12px Arial,Helvetica,Sans-serif;
+    color: white;
+    width: 150px;
+    padding: 6px 15px 6px 35px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+    -webkit-transition: all 0.7s ease 0s;
+    -moz-transition: all 0.7s ease 0s;
+    -o-transition: all 0.7s ease 0s;
+    transition: all 0.7s ease 0s;
+    }*/
+/*Search box*/
